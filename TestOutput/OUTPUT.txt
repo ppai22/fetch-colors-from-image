@@ -1,0 +1,8 @@
+Celestial Blue (74, 150, 214)
+Licorice (29, 33, 15)
+Slate Gray (101, 117, 139)
+Gainsboro (206, 216, 230)
+Army Green (86, 88, 29)
+Charcoal (60, 74, 95)
+True Blue (3, 110, 200)
+Cadet Grey (143, 162, 188)
