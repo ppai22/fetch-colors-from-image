@@ -1,0 +1,4 @@
+Satin Sheen Gold (205, 168, 45)
+Charcoal (46, 49, 79)
+Lust (225, 48, 20)
+Snow (252, 249, 247)
